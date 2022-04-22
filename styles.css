@@ -60,6 +60,12 @@ body {
 .right__nav>li>a {
     color: #fff;
 }
+.right__nav>li>a:focus{
+    color: rgb(104, 104, 255);
+}
+.right__nav>li>a:hover{
+    color: rgb(0, 0, 0);
+}
 
 .slider__img {
     width: 100%;
